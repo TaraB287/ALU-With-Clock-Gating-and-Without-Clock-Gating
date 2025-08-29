@@ -25,10 +25,11 @@ The project includes **functional simulation (ModelSim)** and **power/schematic 
 ## Project Structure
 ```
 ├── src/                          # Verilog source files
-│ ├── alu_4bit.v                  # Main ALU module
-│ ├── alu_4bit_tb.v               # Testbench for ALU
+│ ├── alu_4bit..jpg               # Main ALU module
+│ ├── alu_4bit_tb.jpg             # Testbench for ALU
+| ├── alu_4bit_clkgated.jpg       # Main ALU module of clk gated
 ├── simulation/  
-│ └── modelsim_wave.jpg          # Simulation waveform results
+│ └── modelsim_wave.jpg           # Simulation waveform results
 ├── synthesis/
 │ ├── schematic_with_clk.jpg      # RTL schematic (with clock gating)
 │ ├── schematic_without_clk.jpg   # RTL schematic (without clock gating)
