@@ -28,12 +28,12 @@ The project includes **functional simulation (ModelSim)** and **power/schematic 
 │ ├── alu_4bit.v                  # Main ALU module
 │ ├── alu_4bit_tb.v               # Testbench for ALU
 ├── simulation/  
-│ └── modelsim_wave.png           # Simulation waveform results
+│ └── modelsim_wave.jpg          # Simulation waveform results
 ├── synthesis/
-│ ├── schematic_with_clk.png      # RTL schematic (with clock gating)
-│ ├── schematic_without_clk.png   # RTL schematic (without clock gating)
-│ ├── power_with_clk.png          # Power analysis (with clock gating)
-│ └── power_without_clk.png       # Power analysis (without clock gating)
+│ ├── schematic_with_clk.jpg      # RTL schematic (with clock gating)
+│ ├── schematic_without_clk.jpg   # RTL schematic (without clock gating)
+│ ├── power_with_clk.jpg          # Power analysis (with clock gating)
+│ └── power_without_clk.jpg       # Power analysis (without clock gating)
 ├── README.md
 ```
 
