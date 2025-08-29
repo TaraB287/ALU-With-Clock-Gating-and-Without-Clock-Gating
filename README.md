@@ -13,7 +13,7 @@ The project includes **functional simulation (ModelSim)** and **power/schematic 
   - AND  
   - OR  
   - XOR  
-  - ADD  
+  - ADD 
   - SUB  
   - Left Shift  
   - Right Shift
